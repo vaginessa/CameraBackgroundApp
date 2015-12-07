@@ -44,7 +44,7 @@
 				android:layout_width="wrap_content"
 				android:layout_height="wrap_content"
 				android:textAppearance="?android:attr/textAppearanceMedium"
-				android:text="logging period : "
+				android:text="logging interval : "
 				android:id="@+id/textView"
 				android:layout_gravity="center_vertical"
 				android:textColor="#b9b9b9"/>
